@@ -994,7 +994,7 @@ margin-top: 5%;}
 }
 }
 /* responsive laptop*/
-@media all and (max-width: 1000px)
+@media all and (max-width: 1200px)
 {
 /* resizing images hebergements*/
 #image_auberge_la_cannebiere
@@ -1062,7 +1062,7 @@ margin-top: 5%;}
 }
 }
 /* responsive tablette*/
-@media all and (max-width: 800px)
+@media all and (max-width: 1000px)
 {
 /* resizing images hebergements*/
 #image_auberge_la_cannebiere
