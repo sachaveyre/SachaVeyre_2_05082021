@@ -632,7 +632,7 @@ h1 i
     justify-content: space-between;
 }
 /* responsive tablette / telephone*/
-@media all and (max-width: 800px)
+@media all and (max-width: 900px)
 {
 /* responsive nav */
 #nav
@@ -644,7 +644,7 @@ h1 i
     justify-content: space-between;
     width: 100%;
     margin-top: 0%;
-    font-size: 3em;
+    font-size: 2em;
     margin-top: 1%;
     flex-wrap: nowrap;
 }
