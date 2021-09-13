@@ -341,7 +341,7 @@ h2
 
 #image_auberge_la_cannebiere
 {
-    background-image: url("/images/cannebiere.jpg");
+    background-image: url("./images/cannebiere.jpg");
 }
 #image_Hotel_du_port
 {
