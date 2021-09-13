@@ -345,23 +345,23 @@ h2
 }
 #image_Hotel_du_port
 {
-    background-image: url("/images/hotel_du_port.jpg");
+    background-image: url("./images/hotel_du_port.jpg");
 }
 #image_hotel_les_mouettes
 {
-    background-image: url("/images/hotel_les_mouettes.jpg");
+    background-image: url("./images/hotel_les_mouettes.jpg");
 }
 #image_hotel_de_la_mer
 {
-    background-image: url("/images/hotel_de_la_mer.jpg");
+    background-image: url("./images/hotel_de_la_mer.jpg");
 }
 #image_auberge_le_panier
 {
-    background-image: url("/images/auberge_le_panier.jpg");
+    background-image: url("./images/auberge_le_panier.jpg");
 }
 #image_hotel_chez_amina
 {
-    background-image: url("/images/hotel_chez_amina.jpg");
+    background-image: url("./images/hotel_chez_amina.jpg");
 }
 #image_auberge_la_cannebiere , #image_Hotel_du_port , #image_hotel_les_mouettes , #image_hotel_de_la_mer , #image_auberge_le_panier , #image_hotel_chez_amina
 {
@@ -374,15 +374,15 @@ h2
 
 #image_hotel_le_soleil_du_matin
 {
-    background-image: url("/images/hotel_le_soleil_du_matin.jpg");
+    background-image: url("./images/hotel_le_soleil_du_matin.jpg");
 }
 #image_au_coeur_de_l_eau
 {
-    background-image: url("/images/au_coeur_de_l_eau.jpg");
+    background-image: url("./images/au_coeur_de_l_eau.jpg");
 }
 #image_hotel_tout_bleu_et_blanc
 {
-    background-image: url("/images/hotel_tout_bleu_et_blanc.jpg");
+    background-image: url("./images/hotel_tout_bleu_et_blanc.jpg");
 }
 #image_hotel_le_soleil_du_matin , #image_au_coeur_de_l_eau , #image_hotel_tout_bleu_et_blanc
 {
@@ -492,7 +492,7 @@ h1 i
 /* Activités */
 .image_vieux_port
 {
-    background-image: url("/images/Activite_L/Vieux_port_L.jpg");
+    background-image: url("./images/Activite_L/Vieux_port_L.jpg");
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -501,7 +501,7 @@ h1 i
 }
 .image_fort_de_pomegues
 {
-    background-image: url("/images/Activite_L/fort_de_pomegues_L.jpg");
+    background-image: url("./images/Activite_L/fort_de_pomegues_L.jpg");
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -510,7 +510,7 @@ h1 i
 }
 .image_iles_du_frioul
 {
-    background-image: url("/images/Activite_L/Iles_du_frioul_L.jpg");
+    background-image: url("./images/Activite_L/Iles_du_frioul_L.jpg");
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -519,7 +519,7 @@ h1 i
 }
 .image_parc_national_des_calanques
 {
-    background-image: url("/images/Activite_L/parc_national_des_calanques_L.jpg");
+    background-image: url("./images/Activite_L/parc_national_des_calanques_L.jpg");
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -528,7 +528,7 @@ h1 i
 }
 .image_notre_dame_de_la_garde
 {
-    background-image: url("/images/Activite_L/notre_dame_de_la_garde_L.jpg");
+    background-image: url("./images/Activite_L/notre_dame_de_la_garde_L.jpg");
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -537,7 +537,7 @@ h1 i
 }
 .image_parc_longchamp
 {
-    background-image: url("/images/Activite_L/parc_longchamp_L.jpg");
+    background-image: url("./images/Activite_L/parc_longchamp_L.jpg");
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -999,66 +999,66 @@ margin-top: 5%;}
 /* resizing images hebergements*/
 #image_auberge_la_cannebiere
 {
-    background-image: url("/images/Hebergement_M/marcus-loke-WQJvWU_HZFo-unsplash.jpg");
+    background-image: url("./images/Hebergement_M/marcus-loke-WQJvWU_HZFo-unsplash.jpg");
 }
 #image_Hotel_du_port
 {
-    background-image: url("/images/Hebergement_M/fred-kleber-gTbaxaVLvsg-unsplash.jpg");
+    background-image: url("./images/Hebergement_M/fred-kleber-gTbaxaVLvsg-unsplash.jpg");
 }
 #image_hotel_les_mouettes
 {
-    background-image: url("/images/Hebergement_M/reisetopia-B8WIgxA_PFU-unsplash.jpg");
+    background-image: url("./images/Hebergement_M/reisetopia-B8WIgxA_PFU-unsplash.jpg");
 }
 #image_hotel_de_la_mer
 {
-    background-image: url("/images/Hebergement_M/annie-spratt-Eg1qcIitAuA-unsplash.jpg");
+    background-image: url("./images/Hebergement_M/annie-spratt-Eg1qcIitAuA-unsplash.jpg");
 }
 #image_auberge_le_panier
 {
-    background-image: url("/images/Hebergement_M/nicate-lee-kT-ZyaiwBe0-unsplash.jpg");
+    background-image: url("./images/Hebergement_M/nicate-lee-kT-ZyaiwBe0-unsplash.jpg");
 }
 #image_hotel_chez_amina
 {
-    background-image: url("/images/Hebergement_M/febrian-zakaria-M6S1WvfW68A-unsplash.jpg");
+    background-image: url("./images/Hebergement_M/febrian-zakaria-M6S1WvfW68A-unsplash.jpg");
 }
 /* resizing images populaires*/
 #image_hotel_le_soleil_du_matin
 {
-    background-image: url("/images/Hebergement_M/emile-guillemot-Bj_rcSC5XfE-unsplash.jpg");
+    background-image: url("./images/Hebergement_M/emile-guillemot-Bj_rcSC5XfE-unsplash.jpg");
 }
 #image_au_coeur_de_l_eau
 {
-    background-image: url("/images/Hebergement_M/aw-creative-VGs8z60yT2c-unsplash.jpg");
+    background-image: url("./images/Hebergement_M/aw-creative-VGs8z60yT2c-unsplash.jpg");
 }
 #image_hotel_tout_bleu_et_blanc
 {
-    background-image: url("/images/Hebergement_M/febrian-zakaria-sjvU0THccQA-unsplash.jpg");
+    background-image: url("./images/Hebergement_M/febrian-zakaria-sjvU0THccQA-unsplash.jpg");
 }
 /* resizing images activités*/
 
 .image_vieux_port
 {
-    background-image: url("/images/Activite_M/reno-laithienne-QUgJhdY5Fyk-unsplash.jpg");
+    background-image: url("./images/Activite_M/reno-laithienne-QUgJhdY5Fyk-unsplash.jpg");
 }
 .image_fort_de_pomegues
 {
-    background-image: url("/images/Activite_M/paul-hermann-QFTrLdQIRhI-unsplash.jpg");
+    background-image: url("./images/Activite_M/paul-hermann-QFTrLdQIRhI-unsplash.jpg");
 }
 .image_iles_du_frioul
 {
-    background-image: url("/images/Activite_M/kevin-hikari-rV_Qd1l-VXg-unsplash.jpg");
+    background-image: url("./images/Activite_M/kevin-hikari-rV_Qd1l-VXg-unsplash.jpg");
 }
 .image_parc_national_des_calanques
 {
-    background-image: url("/images/Activite_M/kilyan-sockalingum-NR8-cBCN3aI-unsplash.jpg");
+    background-image: url("./images/Activite_M/kilyan-sockalingum-NR8-cBCN3aI-unsplash.jpg");
 }
 .image_notre_dame_de_la_garde
 {
-    background-image: url("/images/Activite_M/florian-wehde-xW9e8gdotxI-unsplash.jpg");
+    background-image: url("./images/Activite_M/florian-wehde-xW9e8gdotxI-unsplash.jpg");
 }
 .image_parc_longchamp
 {
-    background-image: url("/images/Activite_M/lena-paulin-wH2-EJoDcV0-unsplash.jpg");
+    background-image: url("./images/Activite_M/lena-paulin-wH2-EJoDcV0-unsplash.jpg");
 }
 }
 /* responsive tablette*/
@@ -1067,65 +1067,65 @@ margin-top: 5%;}
 /* resizing images hebergements*/
 #image_auberge_la_cannebiere
 {
-    background-image: url("/images/Hebergement_S/marcus-loke-WQJvWU_HZFo-unsplash.jpg");
+    background-image: url("./images/Hebergement_S/marcus-loke-WQJvWU_HZFo-unsplash.jpg");
 }
 #image_Hotel_du_port
 {
-    background-image: url("/images/Hebergement_S/fred-kleber-gTbaxaVLvsg-unsplash.jpg");
+    background-image: url("./images/Hebergement_S/fred-kleber-gTbaxaVLvsg-unsplash.jpg");
 }
 #image_hotel_les_mouettes
 {
-    background-image: url("/images/Hebergement_S/reisetopia-B8WIgxA_PFU-unsplash.jpg");
+    background-image: url("./images/Hebergement_S/reisetopia-B8WIgxA_PFU-unsplash.jpg");
 }
 #image_hotel_de_la_mer
 {
-    background-image: url("/images/Hebergement_S/annie-spratt-Eg1qcIitAuA-unsplash.jpg");
+    background-image: url("./images/Hebergement_S/annie-spratt-Eg1qcIitAuA-unsplash.jpg");
 }
 #image_auberge_le_panier
 {
-    background-image: url("/images/Hebergement_S/nicate-lee-kT-ZyaiwBe0-unsplash.jpg");
+    background-image: url("./images/Hebergement_S/nicate-lee-kT-ZyaiwBe0-unsplash.jpg");
 }
 #image_hotel_chez_amina
 {
-    background-image: url("/images/Hebergement_S/febrian-zakaria-M6S1WvfW68A-unsplash.jpg");
+    background-image: url("./images/Hebergement_S/febrian-zakaria-M6S1WvfW68A-unsplash.jpg");
 }
 /* resizing images populaires*/
 #image_hotel_le_soleil_du_matin
 {
-    background-image: url("/images/Hebergement_S/emile-guillemot-Bj_rcSC5XfE-unsplash.jpg");
+    background-image: url("./images/Hebergement_S/emile-guillemot-Bj_rcSC5XfE-unsplash.jpg");
 }
 #image_au_coeur_de_l_eau
 {
-    background-image: url("/images/Hebergement_S/aw-creative-VGs8z60yT2c-unsplash.jpg");
+    background-image: url("./images/Hebergement_S/aw-creative-VGs8z60yT2c-unsplash.jpg");
 }
 #image_hotel_tout_bleu_et_blanc
 {
-    background-image: url("/images/Hebergement_S/febrian-zakaria-sjvU0THccQA-unsplash.jpg");
+    background-image: url("./images/Hebergement_S/febrian-zakaria-sjvU0THccQA-unsplash.jpg");
 }
 /* resizing images activités*/
 
 .image_vieux_port
 {
-    background-image: url("/images/Activite_S/reno-laithienne-QUgJhdY5Fyk-unsplash.jpg");
+    background-image: url("./images/Activite_S/reno-laithienne-QUgJhdY5Fyk-unsplash.jpg");
 }
 .image_fort_de_pomegues
 {
-    background-image: url("/images/Activite_S/paul-hermann-QFTrLdQIRhI-unsplash.jpg");
+    background-image: url("./images/Activite_S/paul-hermann-QFTrLdQIRhI-unsplash.jpg");
 }
 .image_iles_du_frioul
 {
-    background-image: url("/images/Activite_S/kevin-hikari-rV_Qd1l-VXg-unsplash.jpg");
+    background-image: url("./images/Activite_S/kevin-hikari-rV_Qd1l-VXg-unsplash.jpg");
 }
 .image_parc_national_des_calanques
 {
-    background-image: url("/images/Activite_S/kilyan-sockalingum-NR8-cBCN3aI-unsplash.jpg");
+    background-image: url("./images/Activite_S/kilyan-sockalingum-NR8-cBCN3aI-unsplash.jpg");
 }
 .image_notre_dame_de_la_garde
 {
-    background-image: url("/images/Activite_S/florian-wehde-xW9e8gdotxI-unsplash.jpg");
+    background-image: url("./images/Activite_S/florian-wehde-xW9e8gdotxI-unsplash.jpg");
 }
 .image_parc_longchamp
 {
-    background-image: url("/images/Activite_S/lena-paulin-wH2-EJoDcV0-unsplash.jpg");
+    background-image: url("./images/Activite_S/lena-paulin-wH2-EJoDcV0-unsplash.jpg");
 }
 }
