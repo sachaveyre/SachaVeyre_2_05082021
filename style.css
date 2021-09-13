@@ -6,6 +6,8 @@ src: url('Raleway-VariableFont_wght.ttf')}
 {
     font-family:Raleway-VariableFont_wght, impact , arial ;
 }
+/* Header */
+
 #logo
 {
     height: 80px;
@@ -19,7 +21,6 @@ src: url('Raleway-VariableFont_wght.ttf')}
     margin-left: 30px;
     margin-top: 17px;
     float: right;
-    
 }
 #inscriptions a
 {
@@ -77,6 +78,7 @@ h3
     flex-wrap: wrap;
     margin-top: 0px;
     padding-top: 0px;
+    margin-right: 4px;
 }
 #navigation
 {
@@ -660,8 +662,6 @@ h1 i
     font-size: 3em;
     margin-left: 70%;
     display: flex;
-    
-    
 }
 #hebergements
 {
@@ -670,8 +670,12 @@ h1 i
 #activites
 {
     width: 50%;
+    margin-left: 0px;
 }
-
+#inscirptions a
+{
+    
+}
 /* responsive Header*/
 #header img
 {
@@ -686,8 +690,11 @@ h1 i
 {
     float: right;
     margin-bottom: 1%;
-    
-    margin-top: 1px;
+    position: absolute;
+    width: auto;
+    top:20px;
+    right :30px;
+    margin-top: 10px;
 }
 #hebergements , #activites
 {
