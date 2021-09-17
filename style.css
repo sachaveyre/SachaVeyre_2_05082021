@@ -878,6 +878,14 @@ input
     margin-left: 0px;
     border-radius: 0px;
 }
+#populaire h3
+{
+    font-size: 0.7em;
+}
+#hebergement_marseille
+{
+    font-size: 0.8em;
+}
 #image_hotel_le_soleil_du_matin , #image_au_coeur_de_l_eau , #image_hotel_tout_bleu_et_blanc
 {
     width: 100%;
